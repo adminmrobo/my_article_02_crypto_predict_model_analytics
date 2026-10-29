@@ -2,6 +2,7 @@
 
 | 파일 | 용도 |
 |---|---|
+| `index.html` | 저장소 첫 화면 (GitHub Pages 진입) - 7개 언어 입구 링크와 안내 |
 | `01_crypto_timeseries.html` | 본편. 한국어 인터랙티브 페이지 — 그림·데이터·스크립트 전부 base64 내장, 단독으로 열린다 |
 | `01_crypto_timeseries.en.html` | 영어판 — 한국어판과 동일 구성, IBM Plex Sans |
 | `01_crypto_timeseries.zh.html` | 중국어판 (zh-CN, Noto Sans SC, CJK 줄바꿈 규칙 적용) |

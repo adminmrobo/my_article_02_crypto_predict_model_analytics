@@ -12,6 +12,7 @@
 
 ### 바로 보기
 
+- `https://adminmrobo.github.io/<저장소이름>/` — 저장소 첫 화면 (index.html): 7개 언어 입구.
 - `https://adminmrobo.github.io/<저장소이름>/01_crypto_timeseries.html` — 한국어판. `<저장소이름>`은 실제 저장소 이름으로 바꿔 적는다 (플레이스홀더).
 
 ### 저자
@@ -36,6 +37,7 @@
 ### 파일 구성
 
 ```
+index.html                             저장소 첫 화면 - 7개 언어 입구 페이지
 01_crypto_timeseries.html              본편 (한국어, 이미지·스크립트 전부 내장)
 01_crypto_timeseries.en|zh|ja.html     번역판 (영어·중국어·일본어)
 01_crypto_timeseries.uz|ru|vi.html     번역판 (우즈베크어·러시아어·베트남어)
@@ -71,7 +73,7 @@ img/*.png                              도판 원본 9장 (HTML에는 base64로 
 
 - **새로 그린 9장** (16비트 RPG 픽셀아트, 굵은 외곽선, 2~3단계 명암): `bg_01`(배경 1920×720), `sc_01_hero`·`sc_01_outro`(장면 1200×800), `cut_01_think`·`cut_01_lv1`·`cut_01_lv3`(컷 960×540), `doc_think`(192×192), `asst_ledger`(180×220), `thumb_01`(600×400, 목차 카드용). 모든 장면에 글자·숫자·로고·비트코인 심볼을 넣지 않았다.
 - **재사용 8장**: 공용 표정 세트(`IMG_00_index.md` 참조) — `doc_front` · `asst_smile` · `fly_point` · `robo_coin` · `fly_coffee` · `robo_happy` · `doc_judge` · `robo_chart`.
-- 말풍선 캐릭터 스프라이트는 캐릭터 시트(`refs/01_HM5A1ZtI.png`) 기준 투명 PNG를 192px로 정리해 내장했다.
+- 말풍선 캐릭터 스프라이트는 `fruitfly-lab-expressions` 저장소의 공식 표정 스프라이트(E13_neutral)를 배경을 지우고 192px로 정리해 내장했다
 
 ### 용어 표기
 
@@ -122,6 +124,7 @@ Text · Ahn Sangsun (CEO, M-Robo Co., Ltd.) — original author of the source pa
 ### Files
 
 ```
+index.html                             Repository landing page - entry to all 7 languages
 01_crypto_timeseries.html              Main edition (Korean, all images and scripts embedded)
 01_crypto_timeseries.en|zh|ja.html     Translations (English · Chinese · Japanese)
 01_crypto_timeseries.uz|ru|vi.html     Translations (Uzbek · Russian · Vietnamese)
@@ -157,7 +160,7 @@ img/*.png                              9 original figures (embedded in the HTML 
 
 - **9 newly drawn** (16-bit RPG pixel art, bold outlines, 2–3 shading steps): `bg_01` (background 1920×720), `sc_01_hero`·`sc_01_outro` (scenes 1200×800), `cut_01_think`·`cut_01_lv1`·`cut_01_lv3` (cuts 960×540), `doc_think` (192×192), `asst_ledger` (180×220), `thumb_01` (600×400, for the index card). No letters, numerals, logos or Bitcoin symbols appear in any scene.
 - **8 reused**: the shared expression set (see `IMG_00_index.md`) — `doc_front` · `asst_smile` · `fly_point` · `robo_coin` · `fly_coffee` · `robo_happy` · `doc_judge` · `robo_chart`.
-- Speech-bubble character sprites were cleaned up as transparent 192 px PNGs based on the character sheet (`refs/01_HM5A1ZtI.png`) and embedded.
+- Speech-bubble character sprites are the official expression sprites (E13_neutral) from the `fruitfly-lab-expressions` repository, keyed out of their background and packed at 192 px.
 
 ### Terminology
 
@@ -208,6 +211,7 @@ This document and page are distributed under the **Creative Commons Attribution-
 ### 文件构成
 
 ```
+index.html                             仓库首页 - 7 种语言入口页面
 01_crypto_timeseries.html              正篇（韩语，图片与脚本全部内嵌）
 01_crypto_timeseries.en|zh|ja.html     翻译版（英语·中文·日语）
 01_crypto_timeseries.uz|ru|vi.html     翻译版（乌兹别克语·俄语·越南语）
@@ -243,7 +247,7 @@ img/*.png                              9 张图表原图（HTML 中以 base64 �
 
 - **新绘制 9 张**（16 位 RPG 像素画，粗描边，2–3 级明暗）：`bg_01`（背景 1920×720）、`sc_01_hero`·`sc_01_outro`（场景 1200×800）、`cut_01_think`·`cut_01_lv1`·`cut_01_lv3`（分镜 960×540）、`doc_think`（192×192）、`asst_ledger`（180×220）、`thumb_01`（600×400，目录卡用）。所有场景均未加入文字、数字、标志或比特币符号。
 - **复用 8 张**：共用表情集（见 `IMG_00_index.md`）— `doc_front` · `asst_smile` · `fly_point` · `robo_coin` · `fly_coffee` · `robo_happy` · `doc_judge` · `robo_chart`。
-- 对话气泡角色精灵以角色表（`refs/01_HM5A1ZtI.png`）为准，整理成 192px 透明 PNG 后内嵌。
+- 对话气泡角色精灵取自 `fruitfly-lab-expressions` 仓库的官方表情精灵（E13_neutral），去除背景后整理成 192px 内嵌。
 
 ### 术语约定
 
@@ -294,6 +298,7 @@ img/*.png                              9 张图表原图（HTML 中以 base64 �
 ### ファイル構成
 
 ```
+index.html                             リポジトリの最初のページ - 7言語の入り口
 01_crypto_timeseries.html              本編（韓国語、画像・スクリプト全部内蔵）
 01_crypto_timeseries.en|zh|ja.html     翻訳版（英語・中国語・日本語）
 01_crypto_timeseries.uz|ru|vi.html     翻訳版（ウズベク語・ロシア語・ベトナム語）
@@ -329,7 +334,7 @@ img/*.png                              図版オリジナル9枚（HTMLにはbas
 
 - **新規描き下ろし9枚**（16ビットRPGピクセルアート、太い輪郭線、2〜3段階の陰影）：`bg_01`（背景1920×720）、`sc_01_hero`·`sc_01_outro`（場面1200×800）、`cut_01_think`·`cut_01_lv1`·`cut_01_lv3`（カット960×540）、`doc_think`（192×192）、`asst_ledger`（180×220）、`thumb_01`（600×400、目次カード用）。すべての場面に文字・数字・ロゴ・ビットコインシンボルを入れていません。
 - **再利用8枚**：共用表情セット（`IMG_00_index.md` 参照）— `doc_front` · `asst_smile` · `fly_point` · `robo_coin` · `fly_coffee` · `robo_happy` · `doc_judge` · `robo_chart`。
-- 吹き出しキャラスプライトはキャラクターシート（`refs/01_HM5A1ZtI.png`）を基準に、192pxの透明PNGへ整理して内蔵しました。
+- 吹き出しキャラスプライトは `fruitfly-lab-expressions` リポジトリの公式表情スプライト（E13_neutral）を背景除去して192pxに整理し、内蔵しました。
 
 ### 用語表記
 
@@ -380,6 +385,7 @@ Matn · An Sangsun (M-Robo Co., Ltd. direktori) — asl maqola va qahramonlarnin
 ### Fayl tarkibi
 
 ```
+index.html                             Repozitoriya bosh sahifasi - 7 til kirish nuqtasi
 01_crypto_timeseries.html              Asosiy nashr (koreys, barcha rasm va skriptlar ichida)
 01_crypto_timeseries.en|zh|ja.html     Tarjima nashrlar (ingliz · xitoy · yapon)
 01_crypto_timeseries.uz|ru|vi.html     Tarjima nashrlar (oʻzbek · rus · vetnam)
@@ -415,7 +421,7 @@ img/*.png                              9 ta asl chizma (HTML ichida base64 koʻr
 
 - **Yangi chizilgan 9 ta** (16-bit RPG piksel-art, qalin kontur, 2–3 bosqichli soya): `bg_01` (fon 1920×720), `sc_01_hero`·`sc_01_outro` (sahna 1200×800), `cut_01_think`·`cut_01_lv1`·`cut_01_lv3` (kadr 960×540), `doc_think` (192×192), `asst_ledger` (180×220), `thumb_01` (600×400, koʻrsatkich kartasi uchun). Hech bir sahnaga harf, raqam, logotip yoki bitkoin belgisi qoʻshilmagan.
 - **Qayta ishlatilgan 8 ta**: umumiy mimika toʻplami (`IMG_00_index.md` ga qarang) — `doc_front` · `asst_smile` · `fly_point` · `robo_coin` · `fly_coffee` · `robo_happy` · `doc_judge` · `robo_chart`.
-- Nutq pufakchali qahramon spritelari karakterlar varagʻi (`refs/01_HM5A1ZtI.png`) asosida 192 px shaffof PNG qilib tayyorlanib, ichiga joylangan.
+- Nutq pufakchali qahramon spritelari `fruitfly-lab-expressions` omborining rasmiy ifoda spritelari (E13_neutral) asosida, fonini olib tashlab 192 px shaffof PNG qilib ichiga joylangan.
 
 ### Atamalar
 
@@ -466,6 +472,7 @@ Bu hujjat va sahifa **Creative Commons Attribution-NonCommercial 4.0 Internation
 ### Состав файлов
 
 ```
+index.html                             Начальная страница репозитория - вход на 7 языках
 01_crypto_timeseries.html              Основная редакция (корейский, все изображения и скрипты встроены)
 01_crypto_timeseries.en|zh|ja.html     Переводы (английский · китайский · японский)
 01_crypto_timeseries.uz|ru|vi.html     Переводы (узбекский · русский · вьетнамский)
@@ -501,7 +508,7 @@ img/*.png                              9 исходных иллюстраций
 
 - **9 новых** (пиксель-арт в духе 16-битных RPG, жирный контур, 2–3 ступени тени): `bg_01` (фон 1920×720), `sc_01_hero`·`sc_01_outro` (сцены 1200×800), `cut_01_think`·`cut_01_lv1`·`cut_01_lv3` (кадры 960×540), `doc_think` (192×192), `asst_ledger` (180×220), `thumb_01` (600×400, для карточки оглавления). Ни в одной сцене нет букв, цифр, логотипов или символа биткоина.
 - **8 повторно использованных**: общий набор выражений (см. `IMG_00_index.md`) — `doc_front` · `asst_smile` · `fly_point` · `robo_coin` · `fly_coffee` · `robo_happy` · `doc_judge` · `robo_chart`.
-- Спрайты персонажей для реплик вычищены в прозрачные PNG 192 px по листу персонажей (`refs/01_HM5A1ZtI.png`) и встроены.
+- Спрайты персонажей для реплик — официальные спрайты выражений (E13_neutral) из репозитория `fruitfly-lab-expressions`, фон удалён, размер 192 px.
 
 ### Терминология
 
@@ -552,6 +559,7 @@ Chữ · Ahn Sangsun (Giám đốc công ty M-Robo) — tác giả gốc của b
 ### Cấu trúc tệp
 
 ```
+index.html                             Trang đầu của kho - lối vào 7 ngôn ngữ
 01_crypto_timeseries.html              Bản chính (tiếng Hàn, nhúng toàn bộ hình và tập lệnh)
 01_crypto_timeseries.en|zh|ja.html     Bản dịch (tiếng Anh · Trung · Nhật)
 01_crypto_timeseries.uz|ru|vi.html     Bản dịch (tiếng Uzbek · Nga · Việt)
@@ -587,7 +595,7 @@ img/*.png                              9 hình gốc (được nhúng base64 tro
 
 - **9 hình vẽ mới** (pixel art RPG 16-bit, viền đậm, 2–3 mức sáng tối): `bg_01` (nền 1920×720), `sc_01_hero`·`sc_01_outro` (cảnh 1200×800), `cut_01_think`·`cut_01_lv1`·`cut_01_lv3` (cảnh cắt 960×540), `doc_think` (192×192), `asst_ledger` (180×220), `thumb_01` (600×400, dùng cho thẻ mục lục). Không cảnh nào có chữ, số, logo hay ký hiệu Bitcoin.
 - **8 hình dùng lại**: bộ biểu cảm chung (xem `IMG_00_index.md`) — `doc_front` · `asst_smile` · `fly_point` · `robo_coin` · `fly_coffee` · `robo_happy` · `doc_judge` · `robo_chart`.
-- Sprite nhân vật bong bóng thoại được làm sạch thành PNG trong suốt 192 px theo bảng nhân vật (`refs/01_HM5A1ZtI.png`) rồi nhúng vào.
+- Sprite nhân vật bong bóng thoại lấy từ các sprite biểu cảm chính thức (E13_neutral) của kho `fruitfly-lab-expressions`, đã xóa phông và đóng gói 192 px.
 
 ### Thuật ngữ
 
