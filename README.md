@@ -8,7 +8,7 @@
 
 ## 한국어
 
-안상선(2024)의 논문 「가상자산 시계열 데이터의 분석과 예측: 시계열 모델 및 인공지능 모델의 비교 및 개선점 제시」(미래사회 15권 1호, 21~33쪽)의 통계 수치와 연구 설계를 그대로 옮겨, 연구실 식구 네 명(박사·조수·초파리 연구원·Money-Robo)의 해설과 브라우저 실습으로 풀어낸 인터랙티브 교육 페이지다. 그림·데이터·스크립트를 한 파일에 모두 담아(base64) 빌드 과정 없이 브라우저로 열기만 하면 동작한다. 외부에서 불러오는 것은 IBM Plex Sans KR 폰트뿐이다.
+안상선(2024)의 논문 「가상자산 시계열 데이터의 분석과 예측: 시계열 모델 및 인공지능 모델의 비교 및 개선점 제시」(미래사회 15권 1호, 21~33쪽)의 통계 수치와 연구 설계를 그대로 옮겨, 연구실 식구 네 명(박사·조수·초파리 연구원·주판봇)의 해설과 브라우저 실습으로 풀어낸 인터랙티브 교육 페이지다. 그림·데이터·스크립트를 한 파일에 모두 담아(base64) 빌드 과정 없이 브라우저로 열기만 하면 동작한다. 외부에서 불러오는 것은 IBM Plex Sans KR 폰트뿐이다.
 
 ### 바로 보기
 
@@ -96,7 +96,7 @@ img/*.png                              도판 원본 9장 (HTML에는 base64로 
 
 # Analysis and Prediction of Cryptocurrency Time-Series Data — Lab Dashboard (No. 01)
 
-The statistics and research design of Ahn Sangsun's (2024) paper "Analysis and Prediction of Crypto Currency Time Series Data: Comparison of time series models and artificial intelligence models and suggestions for improvement" (Journal of Future Society 15(1), pp. 21-33) are carried over exactly, and unfolded through the commentary of the four lab residents — the Doctor, the Assistant, the Fruit Fly Researcher and Money-Robo — plus hands-on browser practice. All figures, data and scripts are packed into a single file (base64): no build step, just open it in a browser. The only external request is the IBM Plex Sans font.
+The statistics and research design of Ahn Sangsun's (2024) paper "Analysis and Prediction of Crypto Currency Time Series Data: Comparison of time series models and artificial intelligence models and suggestions for improvement" (Journal of Future Society 15(1), pp. 21-33) are carried over exactly, and unfolded through the commentary of the four lab residents — the Doctor, the Assistant, the Fruit Fly Researcher and AbaBot — plus hands-on browser practice. All figures, data and scripts are packed into a single file (base64): no build step, just open it in a browser. The only external request is the IBM Plex Sans font.
 
 ### Quick view
 
@@ -183,7 +183,7 @@ This document and page are distributed under the **Creative Commons Attribution-
 
 # 加密货币时间序列数据的分析与预测 — 实验室仪表盘（第01篇）
 
-安相善（2024）论文《加密货币时间序列数据的分析与预测：时间序列模型与人工智能模型的比较及改进建议》（《未来社会》15卷1期，第21–33页）中的统计数值与研究设计被原样移植，通过实验室四名成员（博士、助手、果蝇研究员、Money-Robo）的解说和浏览器实操展开成互动教学页面。全部图片、数据和脚本都封装在一个文件里（base64），无需构建步骤，用浏览器打开即可运行。唯一的外部请求是 IBM Plex Sans 字体。
+安相善（2024）论文《加密货币时间序列数据的分析与预测：时间序列模型与人工智能模型的比较及改进建议》（《未来社会》15卷1期，第21–33页）中的统计数值与研究设计被原样移植，通过实验室四名成员（博士、助手、果蝇研究员、算盘宝）的解说和浏览器实操展开成互动教学页面。全部图片、数据和脚本都封装在一个文件里（base64），无需构建步骤，用浏览器打开即可运行。唯一的外部请求是 IBM Plex Sans 字体。
 
 ### 快速查看
 
@@ -270,7 +270,7 @@ img/*.png                              9 张图表原图（HTML 中以 base64 �
 
 # 仮想通貨時系列データの分析と予測 — 研究室ダッシュボード（第01篇）
 
-安相善（2024）の論文「仮想通貨時系列データの分析と予測：時系列モデルと人工知能モデルの比較および改善点の提示」（『未来社会』15巻1号、21〜33頁）の統計数値と研究設計をそのまま移し、研究室の住人四人（博士・助手・ショウジョウバエ研究員・Money-Robo）の解説とブラウザ実習で展開したインタラクティブ教育ページです。図・データ・スクリプトを一つのファイルにすべて収め（base64）てあり、ビルド工程なしでブラウザで開くだけで動作します。外部から読み込むのは IBM Plex Sans フォントだけです。
+安相善（2024）の論文「仮想通貨時系列データの分析と予測：時系列モデルと人工知能モデルの比較および改善点の提示」（『未来社会』15巻1号、21〜33頁）の統計数値と研究設計をそのまま移し、研究室の住人四人（博士・助手・ショウジョウバエ研究員・アバボット）の解説とブラウザ実習で展開したインタラクティブ教育ページです。図・データ・スクリプトを一つのファイルにすべて収め（base64）てあり、ビルド工程なしでブラウザで開くだけで動作します。外部から読み込むのは IBM Plex Sans フォントだけです。
 
 ### すぐ見る
 
@@ -357,7 +357,7 @@ img/*.png                              図版オリジナル9枚（HTMLにはbas
 
 # Kriptovalyuta vaqt qatorlarini tahlil qilish va bashorat qilish — Laboratoriya paneli (01-son)
 
-An Sangsun (2024)ning "Kriptovalyuta vaqt qatorlarini tahlil qilish va bashorat qilish: vaqt qatorlari modellari va sunʼiy intellekt modellarini taqqoslash hamda yaxshilash tavsiyalari" (Journal of Future Society 15(1), 21–33-betlar) maqolasidagi statistik raqamlar va tadqiqot dizayni aynan saqlab qolindi hamda ular laboratoriya aʼzolari toʻrtligi — Doktor, Yordamchi, Drozofila tadqiqotchisi va Money-Robo — sharhlari va brauzerda amaliy mashqlar orqali ochib beriladigan interaktiv oʻquv sahifasiga aylandi. Barcha rasmlar, maʼlumotlar va skriptlar bitta faylga (base64) joylashtirilgan: qurish bosqichisiz, brauzerda ochish kifoya. Tashqaridan faqat IBM Plex Sans shrifti yuklanadi.
+An Sangsun (2024)ning "Kriptovalyuta vaqt qatorlarini tahlil qilish va bashorat qilish: vaqt qatorlari modellari va sunʼiy intellekt modellarini taqqoslash hamda yaxshilash tavsiyalari" (Journal of Future Society 15(1), 21–33-betlar) maqolasidagi statistik raqamlar va tadqiqot dizayni aynan saqlab qolindi hamda ular laboratoriya aʼzolari toʻrtligi — Doktor, Yordamchi, Drozofila tadqiqotchisi va AbaBot — sharhlari va brauzerda amaliy mashqlar orqali ochib beriladigan interaktiv oʻquv sahifasiga aylandi. Barcha rasmlar, maʼlumotlar va skriptlar bitta faylga (base64) joylashtirilgan: qurish bosqichisiz, brauzerda ochish kifoya. Tashqaridan faqat IBM Plex Sans shrifti yuklanadi.
 
 ### Tez koʻrish
 
@@ -444,7 +444,7 @@ Bu hujjat va sahifa **Creative Commons Attribution-NonCommercial 4.0 Internation
 
 # Анализ и прогнозирование временных рядов криптовалют — лабораторная панель (№ 01)
 
-Статистические показатели и исследовательский дизайн статьи Ан Сан Сона (2024) «Анализ и прогнозирование временных рядов данных криптовалют: сравнение моделей временных рядов и моделей искусственного интеллекта с предложениями по улучшению» (Journal of Future Society 15(1), стр. 21–33) перенесены в точности и раскрыты через комментарии четырёх обитателей лаборатории — Доктора, Ассистента, Исследователя-дрозофилу и Money-Robo — а также практику прямо в браузере. Все изображения, данные и скрипты упакованы в один файл (base64): этап сборки не нужен, достаточно открыть файл в браузере. Единственный внешний запрос — шрифт IBM Plex Sans.
+Статистические показатели и исследовательский дизайн статьи Ан Сан Сона (2024) «Анализ и прогнозирование временных рядов данных криптовалют: сравнение моделей временных рядов и моделей искусственного интеллекта с предложениями по улучшению» (Journal of Future Society 15(1), стр. 21–33) перенесены в точности и раскрыты через комментарии четырёх обитателей лаборатории — Доктора, Ассистента, Исследователя-дрозофилу и АбаБота — а также практику прямо в браузере. Все изображения, данные и скрипты упакованы в один файл (base64): этап сборки не нужен, достаточно открыть файл в браузере. Единственный внешний запрос — шрифт IBM Plex Sans.
 
 ### Быстрый просмотр
 
@@ -531,7 +531,7 @@ img/*.png                              9 исходных иллюстраций
 
 # Phân tích và dự báo dữ liệu chuỗi thời gian tiền mã hóa — Bảng điều khiển phòng thí nghiệm (Số 01)
 
-Các con số thống kê và thiết kế nghiên cứu của bài báo của Ahn Sangsun (2024) "Analysis and Prediction of Crypto Currency Time Series Data: Comparison of time series models and artificial intelligence models and suggestions for improvement" (Journal of Future Society 15(1), tr. 21–33) được chuyển nguyên vẹn, rồi triển khai qua phần bình luận của bốn cư dân phòng thí nghiệm — Tiến sĩ, Trợ lý, Nhà nghiên cứu Ruồi giấm và Money-Robo — cùng thực hành ngay trên trình duyệt. Toàn bộ hình ảnh, dữ liệu và tập lệnh được gói trong một tệp duy nhất (base64): không cần bước build, chỉ cần mở bằng trình duyệt. Yêu cầu bên ngoài duy nhất là phông chữ IBM Plex Sans.
+Các con số thống kê và thiết kế nghiên cứu của bài báo của Ahn Sangsun (2024) "Analysis and Prediction of Crypto Currency Time Series Data: Comparison of time series models and artificial intelligence models and suggestions for improvement" (Journal of Future Society 15(1), tr. 21–33) được chuyển nguyên vẹn, rồi triển khai qua phần bình luận của bốn cư dân phòng thí nghiệm — Tiến sĩ, Trợ lý, Nhà nghiên cứu Ruồi giấm và AbaBot — cùng thực hành ngay trên trình duyệt. Toàn bộ hình ảnh, dữ liệu và tập lệnh được gói trong một tệp duy nhất (base64): không cần bước build, chỉ cần mở bằng trình duyệt. Yêu cầu bên ngoài duy nhất là phông chữ IBM Plex Sans.
 
 ### Xem nhanh
 
